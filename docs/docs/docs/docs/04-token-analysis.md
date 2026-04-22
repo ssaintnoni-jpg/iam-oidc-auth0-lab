@@ -36,7 +36,7 @@ Paste the token into the decoder.
   
   "email_verified": 
   
-  "iss": "https://dev-kjq1iuqp5sh8qgl3.us.auth0.com/",
+  "iss": "https://dev-.us.auth0.com/",
   
   "aud": "bQCrRSYzoo3YF4mdfY2",
   
