@@ -28,7 +28,7 @@ This project demonstrates a practical implementation of Identity and Access Mana
 Click below to explore each stage of the lab:
 
 - 🔹 [Environment Setup](docs/01-environment-setup.md)
-- 🔹 [Application Registration](docs/02-app-registration.md)
+- 🔹 [Application Registration](docs/docs/02-app-registration.md)
 - 🔹 [OIDC Flow](docs/03-oidc-flow.md)
 - 🔹 [Token Analysis](docs/04-token-analysis.md)
 - 🔹 [Troubleshooting](troubleshooting.md)
