@@ -24,21 +24,21 @@ Paste the token into the decoder.
 
 
 ## Sample Payload
-  "nickname": "ssaintnoni",
+  "nickname": "",
   
-  "name": "ssaintnoni@gmail.com",
+  "name": "@gmail.com",
   
   "picture": "https://s.gravatar.com/avatar/b11301036dcd73d64772d2b856fc02bc?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fss.png",
   
   "updated_at": "2026-04-22T10:56:25.565Z",
   
-  "email": "ssaintnoni@gmail.com",
+  "email": "@gmail.com",
   
-  "email_verified": false,
+  "email_verified": 
   
   "iss": "https://dev-kjq1iuqp5sh8qgl3.us.auth0.com/",
   
-  "aud": "bQCrRSYzoo3YF4mdn7ZwdKxxFjCTVfY2",
+  "aud": "bQCrRSYzoo3YF4mdfY2",
   
   "sub": "auth0|69e771c8c61be620e134da5f",
   
@@ -46,7 +46,7 @@ Paste the token into the decoder.
   
   "exp": 1776892311,
   
-  "sid": "OYngEodMJu1A1qk6snz6T4hKzLiDPeUc",
+  "sid": "OYngEodMKzLiDPeUc",
   
   "nonce": "51vs4aufkdi"
 
