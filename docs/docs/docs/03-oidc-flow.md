@@ -33,7 +33,8 @@ Fill in the following:
 
 ---
 
-<img width="1591" height="912" alt="openid" src="https://github.com/user-attachments/assets/5efe495f-0d38-448b-9b09-eba947bdc6c5" />
+<img width="1591" height="912" alt="openid copy" src="https://github.com/user-attachments/assets/07dfe211-4539-462b-ac2e-4ca9c0eaa914" />
+
 
 
 ---
@@ -44,7 +45,8 @@ Fill in the following:
 - Log in using your test user
 - After login, you will be redirected back
 
-<img width="1343" height="915" alt="open id pro" src="https://github.com/user-attachments/assets/d344481f-7df3-41a4-8d8c-455a7cae0d7c" />
+<img width="1343" height="915" alt="open id pro copy" src="https://github.com/user-attachments/assets/864c5b11-0cae-404f-9e53-2da8b91c94ce" />
+
 
 ---
 
@@ -52,8 +54,7 @@ Fill in the following:
 
 You will see a temporary code like:
 
-<img width="1541" height="915" alt="openid connect success" src="https://github.com/user-attachments/assets/0a3f1810-b049-4704-9d0a-3f2cd959b83b" />
-
+<img width="1105" height="371" alt="authorization copy" src="https://github.com/user-attachments/assets/807cc0b2-e564-4d8b-b128-3cd92e96fd57" />
 
 This code is:
 - Short-lived
@@ -80,7 +81,8 @@ Hit Send
 
 ---
 
-<img width="1571" height="907" alt="exchange token" src="https://github.com/user-attachments/assets/531da2ea-d18d-479a-ada8-dd4383a64b3b" />
+<img width="1571" height="907" alt="exchange token copy" src="https://github.com/user-attachments/assets/1722bb91-3419-4e40-9460-fe16a27a9316" />
+
 
 ---
 
