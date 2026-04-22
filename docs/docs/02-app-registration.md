@@ -43,7 +43,8 @@ From the Settings tab, copy:
 - Never expose it in frontend code
 
 ---
-<img width="1873" height="902" alt="TEST APP" src="https://github.com/user-attachments/assets/f8436e35-4e67-45e7-8cc9-a6d222d6b792" />
+<img width="1873" height="902" alt="TEST APP copy" src="https://github.com/user-attachments/assets/a159e451-8889-4b38-acde-d904489a5329" />
+
 
 
 ---
