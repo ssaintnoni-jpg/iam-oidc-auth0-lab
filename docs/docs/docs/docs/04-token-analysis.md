@@ -20,7 +20,8 @@ Paste the token into the decoder.
 
 ---
 
-<img width="1657" height="902" alt="jwt io" src="https://github.com/user-attachments/assets/3a6ea01d-3b10-4620-93c4-8f1819420be1" />
+<img width="1657" height="902" alt="jwt io copy" src="https://github.com/user-attachments/assets/fddc8b11-d67e-406d-8096-ae126ba875a0" />
+
 
 ## Sample Payload
   "nickname": "ssaintnoni",
