@@ -63,3 +63,4 @@ Applications must be registered so the Identity Provider can:
 - Application successfully registered
 - Redirect URI configured
 - Credentials generated for authentication flow
+

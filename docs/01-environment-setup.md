@@ -58,3 +58,4 @@ At this stage:
 ## 💡 Key Insight
 
 Identity Providers like Auth0 act as a central authentication authority, removing the need to store passwords inside applications.
+
