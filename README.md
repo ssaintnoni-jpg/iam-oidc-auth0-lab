@@ -29,9 +29,9 @@ Click below to explore each stage of the lab:
 
 - 🔹 [Environment Setup](docs/01-environment-setup.md)
 - 🔹 [Application Registration](docs/docs/02-app-registration.md)
-- 🔹 [OIDC Flow](docs/03-oidc-flow.md)
-- 🔹 [Token Analysis](docs/04-token-analysis.md)
-- 🔹 [Troubleshooting](troubleshooting.md)
+- 🔹 [OIDC Flow](docs/docs/docs/03-oidc-flow.md)
+- 🔹 [Token Analysis](docs/docs/docs/docs/04-token-analysis.md)
+- 🔹 [Troubleshooting](docs/docs/docs/docs/docs/screenshots/troubleshooting.md)
 
 ---
 
